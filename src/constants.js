@@ -105,7 +105,7 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "Sarala Birla University, Ranchi",
       date: "Sept 2025 - Present",
-      grade: "7.72 CGPA(now)",
+      grade: "8.72 CGPA(now)",
       desc: "I am currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering from Sarala Birla University, Ranchi. As a student, I am building a strong foundation in programming, web development, and computer science fundamentals. My coursework includes subjects like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Software Engineering. I actively participate in technical workshops and hands-on projects, which help me enhance my practical skills. My ongoing journey at Sarala Birla University is helping me grow both technically and professionally.",
       degree: "Bachelor of Technology - B.Tech (CSE)",
     },
