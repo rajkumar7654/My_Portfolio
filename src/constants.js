@@ -104,8 +104,8 @@ export const SkillsInfo = [
       id: 0,
       img: glaLogo,
       school: "Sarala Birla University, Ranchi",
-      date: "Sept 2025 - Present",
-      grade: "8.72 CGPA(now)",
+      date: "Sept 2024 - Present",
+      grade: "9.24 CGPA(now)",
       desc: "I am currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering from Sarala Birla University, Ranchi. As a student, I am building a strong foundation in programming, web development, and computer science fundamentals. My coursework includes subjects like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Software Engineering. I actively participate in technical workshops and hands-on projects, which help me enhance my practical skills. My ongoing journey at Sarala Birla University is helping me grow both technically and professionally.",
       degree: "Bachelor of Technology - B.Tech (CSE)",
     },
@@ -168,4 +168,15 @@ export const SkillsInfo = [
       github: "https://github.com/rajkumar7654/SpotifyClone",
       webapp: "@",
     },
+    {
+      id: 4,
+      title: "Data Centre by Cisco Packet Tracer",
+      description:
+  "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
+      image: githubdetLogo,
+      tags: ["Cisco Packet Tracer", "VLAN", "802.1Q", "Inter-VLAN Routing", "RSTP", "ACL", "Port Security", "DNS", "HTTP", "FTP"],
+      github: "https://github.com/rajkumar7654/Data-Center-Network-Design-Using-Cisco-Packet-Tracer",
+      webapp: "@",
+    },
+    
   ];  
