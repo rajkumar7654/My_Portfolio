@@ -36,7 +36,7 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
-
+import datacentreLogo from './assets/work_logo/datacentre.png';
 
 export const SkillsInfo = [
   {
