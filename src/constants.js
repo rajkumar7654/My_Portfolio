@@ -36,7 +36,7 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
-import datacentreLogo from './assets/work_logo/datacentre.png';
+import datacentreLogo from './assets/work_logo/datacentreLogo.png';
 
 export const SkillsInfo = [
   {
@@ -172,7 +172,7 @@ export const SkillsInfo = [
       id: 4,
       title: "Data Centre by Cisco Packet Tracer",
       description:
-  "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
+      "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
       image: datacentreLogo,
       tags: ["Cisco Packet Tracer", "VLAN", "802.1Q", "Inter-VLAN Routing", "RSTP", "ACL", "Port Security", "DNS", "HTTP", "FTP"],
       github: "https://github.com/rajkumar7654/Data-Center-Network-Design-Using-Cisco-Packet-Tracer",
