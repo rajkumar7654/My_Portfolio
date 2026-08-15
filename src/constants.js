@@ -137,7 +137,7 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
       github: "https://github.com/rajkumar7654/BitHoliocs-Team",
-      
+      webapp: "@",
     },
     {
       id: 1,
