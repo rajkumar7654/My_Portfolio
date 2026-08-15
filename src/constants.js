@@ -37,6 +37,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
+import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
   {
@@ -136,7 +137,7 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
       github: "https://github.com/rajkumar7654/BitHoliocs-Team",
-      webapp: "@",
+      
     },
     {
       id: 1,
@@ -145,7 +146,7 @@ export const SkillsInfo = [
         "A smart movie suggestion platform built using HTML, CSS, JavaScript, and Python. The project uses similarity algorithms to recommend movies based on user preferences. Python logic was developed in Jupyter and integrated using PyCharm, offering an interactive and efficient user experience.",
       image: csprepLogo,
       tags: ["HTML", "CSS", "JavaScript", "Python", "Pycharm", "Jupyter", "Streamlit"],
-      github: "@",
+      LiaLinkedin: "https://www.linkedin.com/posts/rajkumar7654_python-tmdb-recommendationsystem-ugcPost-7359536785439240192-K82T/",
       webapp: "@",
     },
     {
