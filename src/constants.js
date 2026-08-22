@@ -16,7 +16,7 @@ import pythonLogo from './assets/tech_logo/python.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
-import moniLogo from './assets/tech_logo/moni.png';
+
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 
@@ -37,6 +37,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
+import moniLogo from './assets/tech_logo/moni.png';
 import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
