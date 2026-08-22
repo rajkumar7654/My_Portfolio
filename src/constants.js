@@ -37,7 +37,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
-import moniLogo from './assets/work_logo/moni.png';
+import moniTorLogo from './assets/work_logo/moni.png';
 import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
@@ -154,8 +154,8 @@ export const SkillsInfo = [
       id: 2,
       title: "Application Monitoring System",
       description:
-        "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
-      image: moniLogo,
+        "Application Monitoring System is a Spring Boot-based monitoring solution designed to track application performance and health in real time. It uses Micrometer and Spring Actuator to collect application metrics and exposes them through the /actuator/prometheus endpoint. These metrics are collected by the Prometheus Server and can be queried for performance analysis, helping identify bottlenecks, errors, and potential system issues efficiently.",
+      image: moniTorLogo,
       tags: ["Java", "Spring Boot AI", "Grafana", "Prometheus", "Docker"],
       github: "https://github.com/rajkumar7654/Application_Monitoring_System/tree/main",
       webapp: "@",
