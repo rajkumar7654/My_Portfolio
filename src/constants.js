@@ -16,7 +16,7 @@ import pythonLogo from './assets/tech_logo/python.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
-
+import moniLogo from './assets/tech_logo/moni.png';
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 
@@ -154,7 +154,7 @@ export const SkillsInfo = [
       title: "Application Monitoring System",
       description:
         "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
-      image: movierecLogo,
+      image: moniLogo,
       tags: ["Java", "Spring Boot AI", "Grafana", "Prometheus", "Docker"],
       github: "https://github.com/rajkumar7654/Application_Monitoring_System/tree/main",
       webapp: "@",
@@ -174,7 +174,7 @@ export const SkillsInfo = [
       title: "Simon Says Game",
       description:
         "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
-      image: movierecLogo,
+      image: simonLogo,
       tags: ["HTML", "CSS","JavaScript"],
       github: "https://github.com/rajkumar7654/Simon-says-game",
       webapp: "@",
