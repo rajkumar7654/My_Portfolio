@@ -37,7 +37,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
-import moniLogo from './assets/tech_logo/moni.png';
+import moniLogo from './assets/work_logo/moni.png';
 import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
