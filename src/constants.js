@@ -151,6 +151,26 @@ export const SkillsInfo = [
     },
     {
       id: 2,
+      title: "Application Monitoring System",
+      description:
+        "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
+      image: movierecLogo,
+      tags: ["Java", "Spring Boot AI", "Grafana", "Prometheus", "Docker"],
+      github: "https://github.com/rajkumar7654/Application_Monitoring_System/tree/main",
+      webapp: "@",
+    },
+    {
+      id: 3,
+      title: "Data Centre by Cisco Packet Tracer",
+      description:
+      "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
+      image: datacentreLogo,
+      tags: ["Cisco Packet Tracer", "VLAN", "802.1Q", "Inter-VLAN Routing", "RSTP", "ACL", "Port Security", "DNS", "HTTP", "FTP"],
+      github: "https://github.com/rajkumar7654/Data-Center-Network-Design-Using-Cisco-Packet-Tracer",
+      webapp: "@",
+    },
+    {
+      id: 4,
       title: "Simon Says Game",
       description:
         "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
@@ -160,7 +180,7 @@ export const SkillsInfo = [
       webapp: "@",
     },
     {
-      id: 3,
+      id: 5,
       title: "Spotify Clone",
       description:
         "Created a static clone of the Spotify web interface using HTML and CSS. Focused on replicating layout, design aesthetics, and responsive elements to provide a visually accurate user experience.",
@@ -169,15 +189,6 @@ export const SkillsInfo = [
       github: "https://github.com/rajkumar7654/SpotifyClone",
       webapp: "@",
     },
-    {
-      id: 4,
-      title: "Data Centre by Cisco Packet Tracer",
-      description:
-      "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
-      image: datacentreLogo,
-      tags: ["Cisco Packet Tracer", "VLAN", "802.1Q", "Inter-VLAN Routing", "RSTP", "ACL", "Port Security", "DNS", "HTTP", "FTP"],
-      github: "https://github.com/rajkumar7654/Data-Center-Network-Design-Using-Cisco-Packet-Tracer",
-      webapp: "@",
-    },
+    
     
   ];  
