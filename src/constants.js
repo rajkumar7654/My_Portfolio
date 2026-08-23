@@ -30,17 +30,10 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
 import monitorLogo from './assets/work_logo/moni.jpeg';
 import yourResearchLogo from './assets/work_logo/yourResearch.png';
-import simonLogo from './assets/work_logo/simon.png';
-import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
   {
@@ -187,7 +180,7 @@ export const SkillsInfo = [
       title: "Simon Says Game",
       description:
         "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
-      image: simonLogo,
+      image: movierecLogo,
       tags: ["HTML", "CSS","JavaScript"],
       github: "https://github.com/rajkumar7654/Simon-says-game",
       webapp: "@",
