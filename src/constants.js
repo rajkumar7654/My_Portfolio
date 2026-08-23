@@ -37,7 +37,8 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import datacentreLogo from './assets/work_logo/datacentreLogo.png';
-import moniLogo from './assets/work_logo/moni.png';
+import monitorLogo from './assets/work_logo/moni.jpeg';
+import yourResearchLogo from './assets/work_logo/yourResearch.png';
 import { LiaLinkedin } from 'react-icons/lia';
 
 export const SkillsInfo = [
@@ -147,21 +148,31 @@ export const SkillsInfo = [
         "A smart movie suggestion platform built using HTML, CSS, JavaScript, and Python. The project uses similarity algorithms to recommend movies based on user preferences. Python logic was developed in Jupyter and integrated using PyCharm, offering an interactive and efficient user experience.",
       image: csprepLogo,
       tags: ["HTML", "CSS", "JavaScript", "Python", "Pycharm", "Jupyter", "Streamlit"],
-      LiaLinkedin: "https://www.linkedin.com/posts/rajkumar7654_python-tmdb-recommendationsystem-ugcPost-7359536785439240192-K82T/",
+      LinkedIn: "https://www.linkedin.com/posts/rajkumar7654_python-tmdb-recommendationsystem-ugcPost-7359536785439240192-K82T/",
       webapp: "@",
     },
     {
       id: 2,
       title: "Application Monitoring System",
       description:
-        "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
-      image: moniLogo,
+        "Application Monitoring System is a Spring Boot-based monitoring solution designed to track application performance and health in real time. It uses Micrometer and Spring Actuator to collect application metrics and exposes them through the /actuator/prometheus endpoint. These metrics are collected by the Prometheus Server and can be queried for performance analysis, helping identify bottlenecks, errors, and potential system issues efficiently.",
+      image: monitorLogo,
       tags: ["Java", "Spring Boot AI", "Grafana", "Prometheus", "Docker"],
       github: "https://github.com/rajkumar7654/Application_Monitoring_System/tree/main",
       webapp: "@",
     },
     {
       id: 3,
+      title: "Your Research",
+      description:
+      "**Your ReSearcher** is an AI-powered multi-agent research assistant built with Python, LangChain, Mistral AI, Tavily, BeautifulSoup, and Streamlit. It automates the research workflow by searching the web, scraping relevant pages, generating structured reports, and evaluating the final output using an AI-powered critic chain.",
+      image: yourResearchLogo,
+      tags: ["GenerativeAI", "LangChain", "MistralAI", "MultiAgentAI", "Tavily", "WebScraping", "Python", "Streamlit", "AIResearch", "LLM", "ArtificialIntelligence", "OpenSource", "RAG"],
+      github: "https://github.com/rajkumar7654/YourResearch",
+      webapp: "@",
+    },
+    {
+      id: 4,
       title: "Data Centre by Cisco Packet Tracer",
       description:
       "Designed and configured a secure 3-tier Data Centre network using Cisco Packet Tracer with Core, Distribution, and Access layers. Implemented VLANs for Admin, HR, IT, Sales, and Servers with 802.1Q trunking and SVI-based inter-VLAN routing. Configured DNS, HTTP, and FTP servers along with RSTP, Extended ACLs, and Sticky MAC Port Security to enhance network security, reliability, and performance. Validated the network through 20+ test cases for secure and reliable communication across departments.",
@@ -171,7 +182,7 @@ export const SkillsInfo = [
       webapp: "@",
     },
     {
-      id: 4,
+      id: 5,
       title: "Simon Says Game",
       description:
         "Developed an interactive memory-based game using only HTML, CSS, and JavaScript. The game challenges users to repeat color sequences that grow progressively harder, enhancing logic and pattern recognition skills. Focused on clean UI, responsive design, and smooth user interactions.",
@@ -181,7 +192,7 @@ export const SkillsInfo = [
       webapp: "@",
     },
     {
-      id: 5,
+      id: 6,
       title: "Spotify Clone",
       description:
         "Created a static clone of the Spotify web interface using HTML and CSS. Focused on replicating layout, design aesthetics, and responsive elements to provide a visually accurate user experience.",
